@@ -1,0 +1,14 @@
+-->Routes (done)
+1.admin Routes 
+2.post Routes 
+3.user Routes
+
+-->Controllers(done)
+1.admin Controller----->admin can fetch all users delete update any user
+2.post Controller------->create update delete add post
+3.user Controller-------> signup and login for users
+
+-->Models(done)
+1.admin Model 
+2.post Model 
+3.user Model
